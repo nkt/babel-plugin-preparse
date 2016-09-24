@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-preparse",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Optimize a code for faster initial execution and parsing",
   "main": "src/index.js",
   "scripts": {
